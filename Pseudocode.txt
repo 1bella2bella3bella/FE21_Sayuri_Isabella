@@ -1,0 +1,10 @@
+The computer chooses a ramdom number between 1 to 100.
+User input N. 
+If N is higher than 100, it shows Error.
+If N is lower than 100,
+    then if it's lower than computer number, 
+        then computer says my number is higher than your guess, guess again higher!
+    then if it's higher than comuputer number, 
+        then computer says My number is lower than your guess, guess again lower!
+    then if it's the computer number, 
+        then computer says you are correct - the random number is computer number - end game!
