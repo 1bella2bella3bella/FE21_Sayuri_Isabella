@@ -1,4 +1,4 @@
-The computer chooses a ramdom number between 1 to 100.
+The computer chooses a random number between 1 to 100.
 User input N. 
 If N is higher than 100, it shows Error.
 If N is lower than 100,
